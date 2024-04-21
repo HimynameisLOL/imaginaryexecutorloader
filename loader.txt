@@ -1,1 +1,2 @@
+--//dont be a fucking skid nigger
 loadstring(game:HttpGet("https://raw.githubusercontent.com/HimynameisLOL/imaginaryexecutor/main/imaginaryexecutor.txt", true))()
